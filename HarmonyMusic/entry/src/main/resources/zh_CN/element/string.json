@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "App_name",
+      "value": "小华音乐"
+    },
+    {
+      "name": "MICROPHONE_REASON",
+      "value": "用于录音"
+    },
+    {
+      "name": "READ_MEDIA_REASON",
+      "value": "用于读取本地音乐文件"
+    },
+    {
+      "name": "WRITE_MEDIA_REASON",
+      "value": "用于保存音乐相关数据"
+    },
+    {
+      "name": "EntryFormAbility_desc",
+      "value": "form_description"
+    },
+    {
+      "name": "EntryFormAbility_label",
+      "value": "form_label"
+    },
+    {
+      "name": "widget_desc",
+      "value": "This is a service widget."
+    },
+    {
+      "name": "widget_display_name",
+      "value": "widget"
+    }
+  ]
+}

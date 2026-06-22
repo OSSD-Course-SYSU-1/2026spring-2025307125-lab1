@@ -1,0 +1,14 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/recommend/Recommend",
+    "pages/find/Find",
+    "pages/moment/Moment",
+    "pages/like/Like",
+    "pages/mine/Mine",
+    "pages/play/Play",
+    "pages/localmusic/LocalMusic",
+    "pages/search/Search",
+    "pages/history/PlayHistory"
+  ]
+}
